@@ -1,4 +1,9 @@
-### Hi there 👋
+
+<a href="#">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=PeterChe1990&hide=&show_icons=true&theme=algolia&count_private=true&">
+</a>
+
+<a href="https://chezhengping.xyz/">:house:</a>
 
 <!--
 **PeterChe1990/PeterChe1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
